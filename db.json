@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "email": "Applicant@gmail.com",
+      "password": "$2a$10$EAqY6UHn48MEZe8trL1sCO2t7yasAV2Hd23c2hBB/dyR8vbXOtri6",
+      "confirmpassword": "123456",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Product 1",
+      "price": "222",
+      "image": "https://picsum.photos/100/200",
+      "category": "CGLB8Yb",
+      "id": "-jXcnhb"
+    },
+    {
+      "name": "Carot",
+      "price": "22",
+      "image": "https://images.viblo.asia/avatar/bebfeb65-2bf2-4800-99f3-71fab4159caa.jpeg",
+      "category": "bfgd9GQ",
+      "id": "E1ZQf3C"
+    },
+    {
+      "name": "Product 2",
+      "price": "21",
+      "image": "https://picsum.photos/45/200",
+      "category": "pLMfyrh",
+      "id": "ONXnEhl"
+    },
+    {
+      "name": "Product 3",
+      "price": "123",
+      "image": "https://picsum.photos/30/200",
+      "category": "zlX24dq",
+      "id": "trjZC3c"
+    },
+    {
+      "name": "Product 7",
+      "price": "51",
+      "image": "https://picsum.photos/10/200",
+      "category": "wJLf7I9",
+      "id": "-shAgiB"
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Garten Spaten",
+      "id": "bfgd9GQ",
+      "image": "https://images.viblo.asia/avatar/bebfeb65-2bf2-4800-99f3-71fab4159caa.jpeg"
+    },
+    {
+      "name": "Garten Spaten 2",
+      "id": "CGLB8Yb",
+      "image": "https://images.viblo.asia/avatar/bebfeb65-2bf2-4800-99f3-71fab4159caa.jpeg"
+    },
+    {
+      "name": "Garten Spaten 3",
+      "id": "zlX24dq",
+      "image": "https://picsum.photos/50/200"
+    },
+    {
+      "name": "Garten Spaten 4",
+      "id": "pLMfyrh",
+      "image": "https://picsum.photos/22/200"
+    },
+    {
+      "name": "Garten Spaten 5",
+      "id": "wJLf7I9",
+      "image": "https://picsum.photos/221/200"
+    }
+  ]
+}

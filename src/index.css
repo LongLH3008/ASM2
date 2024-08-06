@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-toast {
+    width: auto;
+    font-size: 7px;
+    height: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.my-toasts {
+    width: auto;
+    font-size: 10px;
+    height: auto;
+    border: 1px solid white;
+    border-radius: 10px;
+}
